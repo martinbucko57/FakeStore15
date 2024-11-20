@@ -8,10 +8,12 @@
 import SwiftUI
 
 @main
-struct FakeStore15App: App {
+struct FakeStoreApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                ProductsView()
+            }
         }
     }
 }

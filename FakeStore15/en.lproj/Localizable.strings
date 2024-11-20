@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  FakeStore
+
+  Created by Martin Bucko on 18/11/2024.
+  
+*/
+
+"product.list.title" = "Produkty";
+"product.list.filter.remove" = "Zrusit filter";
+"product.list.empty.message" = "Ziadne produkty";
+"product.detail.id" = "ID produktu:";
+"product.detail.price" = "Cena:";
